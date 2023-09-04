@@ -1,4 +1,4 @@
-// We write logics of each route here which is in tasks.js file
+// We  write logics of each route here which is in tasks.js file
 const asyncWrapper=require('../middleware/async')
 const Task=require('../models/Task')
 const createCustomError=require('../errors/custom-error')
