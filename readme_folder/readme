@@ -1,0 +1,7 @@
+Postman Documentation link:- https://documenter.getpostman.com/view/27052697/2s9Y5csfMJ
+
+Overwiew :-
+. Express based server which manages day-to-day tasks for a user.
+. Mongoose used for creating Schemas.
+. Basic CRUD Operations used.
+. RESTful API
